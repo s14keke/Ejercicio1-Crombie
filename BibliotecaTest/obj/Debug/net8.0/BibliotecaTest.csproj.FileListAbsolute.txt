@@ -1,0 +1,14 @@
+C:\Users\jerem\source\repos\BibliotecaTest\BibliotecaTest\obj\Debug\net8.0\BibliotecaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\source\repos\BibliotecaTest\BibliotecaTest\obj\Debug\net8.0\BibliotecaTest.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\BibliotecaTest\BibliotecaTest\obj\Debug\net8.0\BibliotecaTest.AssemblyInfo.cs
+C:\Users\jerem\source\repos\BibliotecaTest\BibliotecaTest\obj\Debug\net8.0\BibliotecaTest.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\BibliotecaTest\BibliotecaTest\bin\Debug\net8.0\BibliotecaTest.exe
+C:\Users\jerem\source\repos\BibliotecaTest\BibliotecaTest\bin\Debug\net8.0\BibliotecaTest.deps.json
+C:\Users\jerem\source\repos\BibliotecaTest\BibliotecaTest\bin\Debug\net8.0\BibliotecaTest.runtimeconfig.json
+C:\Users\jerem\source\repos\BibliotecaTest\BibliotecaTest\bin\Debug\net8.0\BibliotecaTest.dll
+C:\Users\jerem\source\repos\BibliotecaTest\BibliotecaTest\bin\Debug\net8.0\BibliotecaTest.pdb
+C:\Users\jerem\source\repos\BibliotecaTest\BibliotecaTest\obj\Debug\net8.0\BibliotecaTest.dll
+C:\Users\jerem\source\repos\BibliotecaTest\BibliotecaTest\obj\Debug\net8.0\refint\BibliotecaTest.dll
+C:\Users\jerem\source\repos\BibliotecaTest\BibliotecaTest\obj\Debug\net8.0\BibliotecaTest.pdb
+C:\Users\jerem\source\repos\BibliotecaTest\BibliotecaTest\obj\Debug\net8.0\BibliotecaTest.genruntimeconfig.cache
+C:\Users\jerem\source\repos\BibliotecaTest\BibliotecaTest\obj\Debug\net8.0\ref\BibliotecaTest.dll
